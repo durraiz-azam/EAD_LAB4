@@ -104,5 +104,3 @@ hs_err_pid*
 .idea/modules.xml
 .idea/vcs.xml
 LAB4.iml
-src/
-web/
