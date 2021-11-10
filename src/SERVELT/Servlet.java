@@ -15,6 +15,7 @@ public class Servlet extends HttpServlet {
         out.println("Servlet called");
         out.println("Data Inserted Successfully");
         out.println("Data Inserted azam don");
+        out.println("Data third comit azam don");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
